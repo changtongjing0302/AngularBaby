@@ -1,0 +1,17 @@
+.nav {
+  height: 50px;
+}
+
+.menus {
+  display: inline-block;
+}
+
+a {
+  background-color: darkgrey;
+  border-radius: 3px;
+  padding: .3rem;
+}
+
+.active {
+  color: blue;
+}

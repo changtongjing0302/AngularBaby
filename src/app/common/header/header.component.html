@@ -1,0 +1,5 @@
+<div class="nav">
+    <div *ngFor="let menu of menus;" class="menus">
+        <a [routerLink]="menu?.link" routerLinkActive="active">{{menu?.title}}</a>
+    </div>
+</div>

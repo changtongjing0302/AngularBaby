@@ -1,3 +1,3 @@
 declare let Fs: {
-    con: (val: string) => void;
+    con: (val: string, val2: string) => void;
 };

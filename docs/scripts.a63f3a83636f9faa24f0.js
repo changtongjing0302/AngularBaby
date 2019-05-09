@@ -1,0 +1,1 @@
+var Fs={con:function(o,l){console.log("hello\uff1a"+o),console.log("but\uff1a"+l)}};
